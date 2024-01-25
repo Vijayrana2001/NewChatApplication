@@ -1,0 +1,16 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "video streaming using aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.485.0"
+  },
+  "type": "module"
+}

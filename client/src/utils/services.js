@@ -1,5 +1,5 @@
 //export const Base_URL = "http://localhost:5000/api";
-export const Base_URL = "https://relieved-handkerchief-hen.cyclic.app/api";
+export const Base_URL = "https://silver-skunk-toga.cyclic.app/api";
 
 export const postRequest = async (url, body) => {
   const response = await fetch(url, {
